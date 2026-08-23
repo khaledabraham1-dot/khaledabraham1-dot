@@ -1,38 +1,36 @@
 # Hi, I'm Souleymane Khaled 👋
 
-### Data Science & Digitalisation Student | Machine Learning | Statistics | AI
+### Data Science & Digitalisation Student | Machine Learning | Artificial Intelligence | Statistics
 
-I'm a Data Science & Digitalisation student passionate about Machine Learning, Artificial Intelligence, Statistics and data-driven problem solving.
+I'm a **Data Science & Digitalisation student** interested in **Machine Learning, Artificial Intelligence, Statistics and data-driven problem solving**.
 
-I enjoy turning raw data into meaningful insights and building digital solutions that address real-world problems. My current focus is developing a strong foundation across the **data science lifecycle — from data collection and SQL to statistical analysis, machine learning and deployment**.
+My work focuses on understanding data, developing analytical and predictive approaches, and building digital solutions for real-world problems.
 
-I'm particularly interested in pursuing advanced studies in Data Science, Artificial Intelligence and Machine Learning.
+I am particularly interested in pursuing advanced studies in **Data Science, Artificial Intelligence and Machine Learning**, with a growing interest in **research, predictive modeling and intelligent systems**.
 
+---
 
-
-## 🔬 Research Interests
+## 🔬 Research & Technical Interests
 
 * 🤖 Machine Learning & Artificial Intelligence
 * 🧠 Deep Learning
 * 📊 Statistical Modeling & Data Analysis
-* 🗣️ Natural Language Processing
 * 🔎 Predictive Modeling
-* 📈 Data-driven Decision Making
+* 🗣️ Natural Language Processing
 * ⚙️ Machine Learning Engineering
+* 📈 Data-driven Decision Making
 * ☁️ Cloud & Data Technologies
 
-
+---
 
 ## 🛠️ Technical Skills
 
-### Programming
+### Programming & Data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=r\&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-
-### Data Science & Analytics
 
 * Data Cleaning & Preprocessing
 * Exploratory Data Analysis
@@ -40,6 +38,7 @@ I'm particularly interested in pursuing advanced studies in Data Science, Artifi
 * Data Visualization
 * Predictive Modeling
 * Machine Learning
+* SQL & Relational Databases
 
 ### Databases
 
@@ -47,7 +46,7 @@ I'm particularly interested in pursuing advanced studies in Data Science, Artifi
 * Relational Database Design
 * SQL Querying & Analysis
 
-### Web & Development
+### Web & Digital Development
 
 * HTML / CSS
 * JavaScript
@@ -71,15 +70,31 @@ I'm particularly interested in pursuing advanced studies in Data Science, Artifi
 
 A data science project focused on **mortality prediction in intensive care units using clinical data**.
 
-**Focus:** Data preprocessing • Statistical analysis • Predictive modeling • Machine Learning
+The project involved working with structured clinical data and applying data analysis and predictive approaches to investigate factors associated with ICU mortality.
+
+**Focus:** Data Preprocessing • Statistical Analysis • Predictive Modeling • Machine Learning
 
 **Technologies:** R • SQL • MySQL • Data Analysis
 
 ---
 
+### 📰 La Voix du Septentrion — Digital Media Platform
+
+A responsive website designed and developed for **La Voix du Septentrion**, a digital media platform.
+
+The project focused on creating a modern online presence and presenting media content through a structured and responsive web interface.
+
+**Focus:** Web Development • Digitalisation • Responsive Design • Deployment
+
+**Technologies:** HTML • CSS • JavaScript • Vercel
+
+🔗 **Live Website:** La Voix du Septentrion
+
+---
+
 ### 📊 Cotonou Video Club — Data Analysis
 
-Analysis of a relational database to extract **business insights, trends and patterns** from video rental data.
+Analysis of a relational database to identify **patterns, trends and business insights** from video rental data.
 
 **Focus:** SQL • Database Analysis • Data Exploration
 
@@ -87,37 +102,29 @@ Analysis of a relational database to extract **business insights, trends and pat
 
 ---
 
-### 🍽️ Sokbaro — Digital Platform
-
-A responsive digital platform developed for a restaurant business to improve its **online presence and customer interaction**.
-
-**Focus:** Front-end Development • Responsive Design • Deployment
-
-**Technologies:** HTML • CSS • JavaScript • Vercel
-
-
-
 ### 🎮 ArduX — ESP32 Retro Gaming Console
 
 An embedded systems project based on an **ESP32-powered retro gaming console**.
 
-**Focus:** Embedded Systems • Hardware/Software Integration • Game Development
+The project involved hardware/software integration and game development within an embedded environment.
+
+**Focus:** Embedded Systems • C++ • Hardware/Software Integration • Game Development
 
 **Technologies:** C++ • ESP32
 
-
+---
 
 ## 📚 Currently Learning
 
-I'm continuously strengthening my technical foundations and exploring:
+I'm continuously strengthening my foundations and exploring:
 
 * 🧠 Machine Learning Engineering
 * 🤖 Advanced Machine Learning
-* ☁️ AWS & Cloud Computing
-* 📊 Statistical Modeling
 * 🧬 Deep Learning
-* 🔬 Reproducible Data Science
+* 📊 Statistical Modeling
+* ☁️ AWS & Cloud Computing
 * ⚙️ Data & ML Deployment
+* 🔬 Reproducible Data Science
 
 ---
 
@@ -125,9 +132,9 @@ I'm continuously strengthening my technical foundations and exploring:
 
 ### Bachelor in Data Science & Digitalisation
 
-**SCITI Benin  Sèmè City Institute of Technology and Innovation**
+**SCITI Benin — Sèmè City Institute of Technology and Innovation**
 
-Current areas of study include:
+My academic training includes:
 
 * Data Science
 * Statistics & Probability
@@ -136,57 +143,72 @@ Current areas of study include:
 * Deep Learning
 * Natural Language Processing
 * Mathematical Modeling
+* Data Processing
 * Digitalisation
 * Project Management
 
+---
 
+## 🏆 Certifications & Academic Programs
 
-## 📜 Certifications & Continuous Learning
+### 🎓 Data Science — GCI 2026
 
-I'm currently expanding my knowledge through professional learning platforms and technical programs, with a particular focus on:
+**The University of Tokyo**
 
-* ☁️ AWS Cloud Technologies
-* 🤖 AWS Machine Learning
-* 🧠 Machine Learning & Artificial Intelligence
-* 📊 Data Science
+Participated in the **GCI 2026 Data Science program**, strengthening my foundations in data science and analytical thinking.
 
-> Certifications will be added here as they are officially completed.
+---
 
+### 🤖 AWS AI & ML Practitioner Challenge
 
+**Amazon Web Services (AWS) × Udacity**
 
-## 📈 What I'm Working Toward
+Completed the **AWS AI & ML Practitioner Challenge**, including training in:
 
-My long-term goal is to develop strong expertise at the intersection of:
+**Fundamentals of Machine Learning and Artificial Intelligence**
 
-**Data Science × Artificial Intelligence × Machine Learning × Real-world Applications**
+---
 
-I aim to pursue advanced studies and contribute to projects involving **data-driven research, intelligent systems and applied AI**.
+### 🛡️ Critical Infrastructure Protection
 
+**OPSWAT Academy**
 
+Completed training in **Critical Infrastructure Protection**, with a focus on cybersecurity concepts related to protecting critical infrastructure and digital environments.
 
-## 📫 Connect with me
+---
 
-* 💼 **LinkedIn:** www.linkedin.com/in/khaledsouleymane
-* 🌐 **Portfolio:** [Add your portfolio]
-* 📧 **Email:** khaledabraham1@gmail.com
+## 📈 Academic & Professional Development
 
- ⭐ Thanks for visiting my profile!
+I am continuously building my profile at the intersection of:
+
+**Data Science × Artificial Intelligence × Machine Learning × Digital Technologies**
+
+My goal is to develop strong technical and analytical foundations before pursuing advanced studies and contributing to **data-driven research, intelligent systems and applied AI**.
+
+---
+
+## 🌱 What I'm Building Toward
+
+My long-term interests lie in developing systems that can:
+
+**Understand data → Extract knowledge → Learn from patterns → Support decisions**
+
+I am particularly interested in applying data science and AI to **real-world problems**, while developing stronger foundations in mathematical modeling, statistics, machine learning and computational methods.
+
+---
+
+## 📫 Connect With Me
+
+* 💼 **LinkedIn:** Khaled Souleymane
+* 🌐 **Portfolio:** Khaled Souleymane Portfolio
+* 📧 **Email:** [khaledabraham1@gmail.com](mailto:khaledabraham1@gmail.com)
+
+---
+
+### ⭐ Thanks for visiting my profile!
 
 Feel free to explore my repositories and follow my journey in **Data Science, Artificial Intelligence and Digital Technologies**.
 
-
-
 <!--
-**khaledabraham1-dot/khaledabraham1-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Profile README for khaledabraham1-dot
 -->
